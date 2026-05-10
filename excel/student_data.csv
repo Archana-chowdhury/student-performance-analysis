@@ -1,9 +1,9 @@
 id,name,gender,math,science,english,attendance,average,result
-8,Priya,F,95,97,96,99,96,Distinction
-4,Sneha,F,92,89,94,98,91.66666667,Distinction
-2,Diya,F,88,91,85,96,88,Distinction
-6,Ananya,F,85,88,90,95,87.66666667,Distinction
 1,Aarav,M,78,82,75,92,78.33333333,Distinction
-5,Varun,M,66,70,72,80,69.33333333,Average
-7,Karan,M,55,60,58,65,57.66666667,Average
+2,Diya,F,88,91,85,96,88,Distinction
 3,Rahul,M,45,56,50,60,50.33333333,Average
+4,Sneha,F,92,89,94,98,91.66666667,Distinction
+5,Varun,M,66,70,72,80,69.33333333,Average
+6,Ananya,F,85,88,90,95,87.66666667,Distinction
+7,Karan,M,55,60,58,65,57.66666667,Average
+8,Priya,F,95,97,96,99,96,Distinction
